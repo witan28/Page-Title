@@ -1,0 +1,46 @@
+body {
+    text-align: center;
+    background-color: green;
+    color:yellow;
+}
+
+h1 {
+    font-size: 100px;
+    border: 10px solid blue;
+    padding: 50px;
+}
+
+h2 {
+    font-size: 75px;
+    color: darkorange;
+}
+
+input {
+    font-size: 75px;
+    width: 400px;
+    text-align: center;
+    border: 2px solid;
+    color: purple;
+}
+
+.Submit {
+    font-size: 45px;
+    background-color:magenta;
+}
+
+.Reset {
+    font-size: 45px;
+    background-color:red;
+}
+
+.answer {
+    font-size: 250px;
+    color:pink;
+}
+
+.wronganswer { 
+    font-size: 100px;
+    color: red;
+    background-color: darkred;
+}
+
